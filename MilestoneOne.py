@@ -8,6 +8,6 @@ class Course:
 		pass
    
 	def get_student_count(self):
-		pass #comment
-		'''thisd is a docstring'''
+		pass
+		
 		

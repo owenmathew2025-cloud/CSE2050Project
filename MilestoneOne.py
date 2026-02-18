@@ -8,7 +8,7 @@ class Course:
 		self.students.append(self.student)
    
 	def get_student_count(self):
-		pass
+		return len(self.students)
 
 
 class Student:

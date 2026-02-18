@@ -10,7 +10,6 @@ class Course:
 	def get_student_count(self):
 		return len(self.students)
 
-
 class Student:
 	#set up framework
 	def __init__(self, student_id, name, courses):
